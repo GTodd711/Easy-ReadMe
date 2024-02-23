@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gavin T.",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.14"
+    "inquirer": "^8.2.4"
   }
 }
